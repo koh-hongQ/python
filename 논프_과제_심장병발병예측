@@ -1,0 +1,39 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNZqIhIuG2J9wbLMOKwS+3l",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/koh-hongQ/python/blob/main/%EB%85%BC%ED%94%84_%EA%B3%BC%EC%A0%9C_%EC%8B%AC%EC%9E%A5%EB%B3%91%EB%B0%9C%EB%B3%91%EC%98%88%EC%B8%A1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "vV2PqWeHPpCA"
+      },
+      "outputs": [],
+      "source": []
+    }
+  ]
+}
